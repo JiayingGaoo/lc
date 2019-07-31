@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa6e345f-7a22-4c67-a2d8-23979ed299e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Remove_Duplicates_from_Sorted_Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implement_strStr.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,11 +40,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Remove_Duplicates_from_Sorted_Array.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
               <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Implement_strStr.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -68,6 +77,7 @@
         <option value="$PROJECT_DIR$/Reverse_Integer.py" />
         <option value="$PROJECT_DIR$/Palindrome_Number.py" />
         <option value="$PROJECT_DIR$/Remove_Duplicates_from_Sorted_Array.py" />
+        <option value="$PROJECT_DIR$/Implement_strStr.py" />
       </list>
     </option>
   </component>
@@ -113,7 +123,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Remove_Duplicates_from_Sorted_Array">
+  <component name="RunManager" selected="Python.Implement_strStr">
+    <configuration name="Implement_strStr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Roman_to_int" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Implement_strStr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Palindrome_Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Roman_to_int" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -200,6 +231,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Implement_strStr" />
         <item itemvalue="Python.Remove_Duplicates_from_Sorted_Array" />
         <item itemvalue="Python.Palindrome_Number" />
         <item itemvalue="Python.Reverse_Integer" />
@@ -334,6 +366,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implement_strStr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>
